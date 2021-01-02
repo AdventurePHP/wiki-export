@@ -1,0 +1,5 @@
+{
+  "require": {
+    "ryakad/pandoc-php": "~1.0"
+  }
+}
